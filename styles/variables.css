@@ -1,0 +1,7 @@
+:root{
+    --c-primary:'white';
+}
+
+.dark:root{
+    --c-primary:'black';
+}
